@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-module
   type="WEB"
-  name="androidpn-tomcat"
+  name="Androidpn-tomcat"
   id="myeclipse.1319163388781"
   context-root="/"
   j2ee-spec="5.0"
-  archive="androidpn-tomcat.war">
+  archive="Androidpn-tomcat.war">
   <attributes>
     <attribute name="webrootdir" value="/WebRoot" />
   </attributes>
