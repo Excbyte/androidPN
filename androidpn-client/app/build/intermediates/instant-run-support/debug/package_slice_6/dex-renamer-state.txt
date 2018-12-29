@@ -1,0 +1,4 @@
+#Wed Dec 26 14:54:39 CST 2018
+base.0=E\:\\AndroidStudio\\androidpn-client\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
